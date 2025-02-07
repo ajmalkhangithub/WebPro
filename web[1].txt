@@ -1,0 +1,6 @@
+GROUP MEMBER:
+            Ajmal khan 04162214014      (Frontend clon )
+            Danish Qudoos 04162214043   (product(add ,delete,update)
+           Hayan Kabeer 04162214002      (fetching a product on home and every login users (their own product) 
+          Usman Hassan 04162214011       (login & registration)
+          Musa kiani 04162214025          (Make databse &connect project to database & final testing)
